@@ -74,4 +74,4 @@ The site is globally distributed, secure with HTTPS, and fully within the **AWS 
 ---
 
 ## 📸 Screenshots
-*(Add your site screenshots here)*  
+*(Doc/Screenshots)*  
