@@ -12,7 +12,7 @@ The site is globally distributed, secure with HTTPS, and fully within the **AWS 
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](Doc/Architecture-Diagram.png)
+![Architecture Diagram](Architecture-Diagram.png)
 
 **Flow:**
 1. User requests site → CloudFront distribution.  
